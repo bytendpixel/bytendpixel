@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arnab Biswas</h1>
-<h3 align="center">🚀 Built with passion | 🌍 Open to contributions | 🛠️ Always learning</h3>
 <h3 align="center">A passionate developer from India.</h3>
+<h3 align="center">🚀 Built with passion | 🌍 Open to contributions | 🛠️ Always learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bytendpixel&label=Profile%20views&color=0e75b6&style=flat" alt="bytendpixel" /> </p>
 
