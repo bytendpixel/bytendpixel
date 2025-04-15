@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/arnab-biswas-bb4729222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnab-biswas-bb4729222" height="30" width="40" /></a>
 <a href="https://fb.com/61562100842603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="61562100842603" height="30" width="40" /></a>
 <a href="https://www.instagram.com/bytendpixel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pix_pion/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/brylukrzaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="brylukrzaq" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bytendpixel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="brylukrzaq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
