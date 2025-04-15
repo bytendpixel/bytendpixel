@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnab Biswas</h1>
+<h3 align="center">🚀 Built with passion | 🌍 Open to contributions | 🛠️ Always learning</h3>
 <h3 align="center">A passionate developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bytendpixel&label=Profile%20views&color=0e75b6&style=flat" alt="bytendpixel" /> </p>
@@ -8,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Web Development, App Development**
-
+- 💡Interested in on **Artificial Intelligence, Machine Learning, Web Development, App Development**
 - 📫 How to reach me **biswasarnabtint@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
